@@ -5,5 +5,7 @@ public class Cryptomonnaie{
     public Cryptomonnaie(String nom, double valeurDeJeton){
         this.nom = nom;
         this.valeurDeJeton = valeurDeJeton;
+
+	//je modifie le fichier
     }
 }
