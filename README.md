@@ -7,3 +7,5 @@
 **IUT Le Havre - Cours GIT**
 
 ###Compte-rendu TP1 Introcdution GIT
+
+création d'un README.md
